@@ -18,7 +18,6 @@ from strategies import strategy
 from playwright.async_api import async_playwright
 from playwright._impl._errors import TargetClosedError
 
-
 # Initialize colorama for Windows
 colorama.init()
 
